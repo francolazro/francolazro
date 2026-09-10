@@ -1,9 +1,9 @@
 ## About me 👋
-I’m Franco, a Systems Administration graduate.
+I’m Franco, a Systems Administration graduate & passionate about Linux
 
-📍 **Neuquén, Argentina**
-
-🎓 **Systems Administration — Universidad Nacional del Comahue**
+📍 **Neuquén, Argentina** <br>
+🎓 **Systems Administration — Universidad Nacional del Comahue** <br>
+🐧 **Linux enthusiast**
 <!--
 **francolazro/francolazro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
